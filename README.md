@@ -1,10 +1,11 @@
 # SinricPro (ESP8266 / ESP32 / RP2040)
 [![arduino-library-badge](https://www.ardu-badge.com/badge/SinricPro.svg?)](https://www.arduino.cc/reference/en/libraries/sinricpro) [![PlatformIO Registry](https://badges.registry.platformio.org/packages/sinricpro/library/SinricPro.svg)](https://registry.platformio.org/libraries/sinricpro/SinricPro)
-[![DOC](https://iotcircuithub.com/smart-home-with-google-assistant-alexa/)
 [![Platform ESP8266](https://img.shields.io/badge/Platform-Espressif8266-orange)](#) [![Platform ESP32](https://img.shields.io/badge/Platform-Espressif32-orange)](#)
 [![Raspberry Pi RP2040](https://img.shields.io/badge/Platform-Raspberry_Pi_RP2040-orange)](#)
 
 [![Framework](https://img.shields.io/badge/Framework-Arduino-blue)](https://www.arduino.cc/)
+
+[![DOC](https://iotcircuithub.com/smart-home-with-google-assistant-alexa/)]
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sinricpro/esp8266-esp32-sdk)](https://github.com/sinricpro/esp8266-esp32-sdk/releases)
 
