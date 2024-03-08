@@ -5,7 +5,7 @@
 
 [![Framework](https://img.shields.io/badge/Framework-Arduino-blue)](https://www.arduino.cc/)
 
-[![DOC](https://iotcircuithub.com/smart-home-with-google-assistant-alexa/)]
+[![DOC](https://img.shields.io/badge/Framework-Arduino-blue)]](https://iotcircuithub.com/smart-home-with-google-assistant-alexa/)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sinricpro/esp8266-esp32-sdk)](https://github.com/sinricpro/esp8266-esp32-sdk/releases)
 
